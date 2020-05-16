@@ -53,6 +53,9 @@ p {
 a:hover {
 	color: midnightblue;
 }
+ol,ul {
+	font-size: 16px;
+}
 
 footer {
 	background-color: midnightblue;
