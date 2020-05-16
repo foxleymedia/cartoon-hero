@@ -7,6 +7,10 @@ body {
 
 /* header styles */
 
+.content {
+	background-color: white;
+}
+
 header {
 	background-color: midnightblue;
 	text-align: center;
