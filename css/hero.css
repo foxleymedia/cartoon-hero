@@ -6,6 +6,13 @@ body {
 
 /* header styles */
 
+<<<<<<< HEAD
+=======
+.content {
+	background-color: white;
+}
+
+>>>>>>> parent of 72bb1bc... content box max-width set
 header {
 	background-color: midnightblue;
 	text-align: center;
